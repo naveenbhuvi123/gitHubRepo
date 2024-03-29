@@ -1,0 +1,28 @@
+.item-list {
+  list-style-type: none;
+}
+.button {
+  background-color: transparent;
+  color: #000000;
+  border-width: 0px;
+  height: 25px;
+  font-family: roboto;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 15px;
+  outline: none;
+  border-radius: 10px;
+}
+.selected-button {
+  background-color: transparent;
+  color: #0f172a;
+  border-width: 2px;
+  border-style: solid;
+  height: 25px;
+  font-family: roboto;
+  font-size: 13px;
+  border-color: #0f172a;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-left: 15px;
+}
